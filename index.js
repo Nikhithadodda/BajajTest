@@ -66,9 +66,9 @@ app.route("/bfhl")
     // Response structure
     res.json({
       is_success: true,
-      user_id: "john_doe_17091999",  // Hardcoded user_id
-      email: "john@xyz.com",         // Hardcoded email
-      roll_number: "ABCD123",        // Hardcoded roll number
+      user_id: "lakshminikhitha",  // Hardcoded user_id
+      email: "lakshminikhitha_d@srmap.edu.in",         // Hardcoded email
+      roll_number: "AP21110011270",        // Hardcoded roll number
       numbers: numbers,
       alphabets: alphabets,
       highest_lowercase_alphabet: highestLowercaseAlphabet ? [highestLowercaseAlphabet] : [],
